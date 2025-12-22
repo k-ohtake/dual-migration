@@ -12,7 +12,7 @@ Ohtake, K. (2024). City formation by dual migration of firms and workers. arXiv 
 # Overview
 
 ## dual_migration.ipynb  
-This is code for simulating the evolution equation of this paper.  
+This is code for simulating the evolution equation proposed in this paper.  
 In the second cell, specify the values of $\tau>0$ (transport cost index) as the list used in the outer loop.  
 Then, specify the parameter $\sigma>1$ (elasticity of substitution) in the list used in the inner loop.  
 For a set of parameters, five simulations are performed for randomly generated initial values.  
