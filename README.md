@@ -7,7 +7,7 @@ This repository provides code for
 in the following paper. I would appreciate your citing the following paper when you publish your results using this code.
 
 Ohtake, K. (2024). City formation by dual migration of firms and workers. arXiv preprint arXiv:2311.05292.  
-<a href="[https://doi.org/10.48550/arXiv.2407.05804](https://doi.org/10.48550/arXiv.2311.05292)" target="_blank" rel="noopener noreferrer">https://doi.org/10.48550/arXiv.2407.05804</a>
+https://doi.org/10.48550/arXiv.2311.05292
 
 # Overview
 
