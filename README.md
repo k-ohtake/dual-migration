@@ -11,16 +11,16 @@ Ohtake, K. (2024). City formation by dual migration of firms and workers. arXiv 
 
 # Overview
 
-## .ipynb
+## dual_migration.ipynb
 Language: 
-Julia ver 1.10.2  
+Julia ver 1.11.4  
 Packages:  
-CSV ver. 0.10.13  
-DataFrames ver. 1.6.1  
-Distributions ver. 0.25.107  
+CSV ver. 0.10.15  
+DataFrames ver. 1.7.0  
+Distributions ver. 0.25.118  
 Format ver. 1.3.7  
-IJulia ver. 1.24.2  
-Plots ver. 1.40.2  
+IJulia ver. 1.26.0  
+Plots ver. 1.40.11  
 
 ### How to use
 
