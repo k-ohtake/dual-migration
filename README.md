@@ -11,7 +11,12 @@ Ohtake, K. (2024). City formation by dual migration of firms and workers. arXiv 
 
 # Overview
 
-## dual_migration.ipynb
+## dual_migration.ipynb  
+This is code for simulating the evolution equation of this paper.  
+In the second cell, specify the values of $\tau>0$ (transport cost index) as the list used in the outer loop.  
+Then, specify the parameter $\sigma>1$ (elasticity of substitution) in the list used in the inner loop.  
+For a set of parameters, five simulations are performed for randomly generated initial values.  
+
 Language: 
 Julia ver 1.11.4  
 Packages:  
@@ -22,16 +27,11 @@ Format ver. 1.3.7
 IJulia ver. 1.26.0  
 Plots ver. 1.40.11  
 
-### How to use
-
-In the second cell, specify the values of $\tau>0$ as the list used in the outer loop.  
-Then, specify parameters $\mu\in(0,1)$ and $\sigma>1$ in the list used in the inner loop.  
-For a set of parameters, five simulations are performed for randomly generated initial values.  
-
 ## eigenvalue_plot.py
-This is a code for computing and plotting eigenvalues of the linearized problem.  
+This is code for computing and plotting eigenvalues of the linearized problem.  
 
 Language: Python ver 3.12.4  
 Packages:  
-matplotlib ver 3.10.1  
-numpy 2.2.3  
+numpy 2.3.5  
+matplotlib ver 3.10.7    
+seaborn 0.13.2
