@@ -15,9 +15,9 @@ In the second cell, specify the values of $\tau>0$ (transport cost index) as the
 Then, specify the parameter $\sigma>1$ (elasticity of substitution) in the list used in the inner loop.  
 For a set of parameters, five simulations are performed for randomly generated initial values.  
 
-Language: 
+**Language**: 
 Julia ver. 1.11.4  
-Packages:  
+**Packages**:  
 CSV ver. 0.10.15  
 DataFrames ver. 1.7.0  
 Distributions ver. 0.25.118  
@@ -28,9 +28,9 @@ Plots ver. 1.40.11
 ## eigenvalue_plot.py
 This is code for computing and plotting eigenvalues of the linearized problem.  
 
-Language:  
+**Language**:  
 Python ver. 3.12.4  
-Packages:  
+**Packages**:  
 numpy ver. 2.3.5  
 matplotlib ver. 3.10.7    
 seaborn ver. 0.13.2
