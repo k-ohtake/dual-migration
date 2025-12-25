@@ -15,7 +15,7 @@ In the second cell, specify the values of $\tau>0$ (transport cost index) as the
 Then, specify the parameter $\sigma>1$ (elasticity of substitution) in the list used in the inner loop.  
 For a set of parameters, five simulations are performed for randomly generated initial values.  
 
-**Language**: 
+**Language**:  
 Julia ver. 1.11.4  
 **Packages**:  
 CSV ver. 0.10.15  
