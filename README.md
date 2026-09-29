@@ -4,10 +4,17 @@ This repository provides code for
 - simulating the evolution equation
 - visualizing the results of eigenvalue analysis
 
-in the following paper. I would appreciate your citing the following paper when you publish your results using this code.
+in the following paper.
 
-Ohtake, K. (2023). City formation by dual migration of firms and workers. arXiv preprint arXiv:2311.05292.  
-https://doi.org/10.48550/arXiv.2311.05292
+I would appreciate your citing the following paper when you publish your results using this code.
+
+---
+Ohtake, K. 2026.  
+"City formation by dual migration of firms and workers."  
+International Journal of Economic Theory  
+https://doi.org/10.1111/ijet.70025
+
+---
 
 ## dual_migration.ipynb  
 This is code for simulating the evolution equation proposed in this paper.  
